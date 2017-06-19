@@ -26,7 +26,7 @@ Examples of computer applications that use the client–server model are Email, 
 
 ![](https://cloud.githubusercontent.com/assets/4304660/23087118/80f5e464-f526-11e6-8f74-6bde3cdaa66c.png)
 
-##The how and why
+## The how and why
 There are currently **1,151,254,186** websites in existence.  You are currently on one laptop.  How are you able to travel to every single one of those websites from your little dinky laptop with an expectation of speed and accuracy?  
 
 Domain Name System, or **DNS servers**, act as information redirectors that will direct your search for a certian website to it's actual physical server location.  When we enter `https://www.google.com` into our browser, we actually go on a fantastic and magical ride across at least three separate servers across our greater region (Northern California for WDI-36) that help us find the actual Google server.
