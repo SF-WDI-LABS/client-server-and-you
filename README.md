@@ -6,7 +6,7 @@
 | Familiarize yourself with the basic technology transactions of browsing the web |
 | Understand the difference between a domain name and an IP address |
 
-<img src="http://www.reactiongifs.com/wp-content/uploads/2013/10/tim-and-eric-mind-blown.gif">
+<img src="assets/tim-and-eric-mind-blown.gif">
 
 ## What is this client/server magic?
 
